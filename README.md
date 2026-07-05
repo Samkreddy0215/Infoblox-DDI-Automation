@@ -11,3 +11,4 @@ This script connects to the Infoblox WAPI REST API to collect IP network informa
 - Exports results to CSV
 - Uses REST API authentication
 - Supports enterprise IPAM reporting
+- DNS Forwarding and Delegation
